@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PaulJClark
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on my own game
+- 👀 I’m interested in software & game development
+- 🌱 I’m currently learning C# & Python
 - 📫 How to reach me pauljclark1994@gmail.com
 <!---
 PaulJClark/PaulJClark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
